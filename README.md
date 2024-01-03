@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @oscel0t
-- 👀 I’m interested in Wrb Development
+- 👋 Hi, I’m Amrit Raj
+- 👀 I’m interested in Web Development
 - 🌱 I’m currently learning DSA
 - 💞️ I’m looking to collaborate on Open Source
 - 📫 How to reach me (https://www.linkedin.com/in/amrit-raj-arj24120/)
